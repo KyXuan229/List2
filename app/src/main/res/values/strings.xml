@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">List App2</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+
+    <string-array name="items">
+        <item>Toyota GT86</item>
+        <item>Nissan GTR R35</item>
+        <item>Lamborghini Aventador LP700-4</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$65, 000</item>
+        <item>$160, 000</item>
+        <item>$490, 000</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Nimble, light weight sports car from Toyota</item>
+        <item>Supercar performance for a fraction of the price</item>
+        <item>Crowd showpiece with glorious sounding V12 engine</item>
+    </string-array>
+</resources>
